@@ -4,8 +4,8 @@
 
 - [x] User
 - [x] Subject
-- [ ] Time Table
-- [ ] Exam
+- [x] Time Table
+- [x] Exam
 - [ ] Marks
 
 ## Steps
