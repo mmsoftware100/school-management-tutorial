@@ -2,7 +2,7 @@
 
 ## Modules
 
-- [ ] User
+- [x] User
 - [ ] Subject
 - [ ] Time Table
 - [ ] Exam
