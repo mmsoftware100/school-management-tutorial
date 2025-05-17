@@ -6,7 +6,7 @@
 - [x] Subject
 - [x] Time Table
 - [x] Exam
-- [ ] Marks
+- [x] Marks
 
 ## Steps
 
